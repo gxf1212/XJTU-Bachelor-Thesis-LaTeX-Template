@@ -29,5 +29,9 @@ For supplements and corrections, or any version updates, feel free to take issue
 This project is modified from the Overleaf project [Doctorate Thesis LaTeX Template](https://www.overleaf.com/latex/templates/latex-template-for-doctoral-thesis-of-xjtu/bmrqcdhbdrcw) by XJTU alumni Zhang Ming, thanks for his work.
 
 ## TODO
-- 意见书什么的也是include的（也行）；
+- 意见书什么的也是include的（也行），应该附一个Word模板？
 - 摘要那里没有黑体论文标题等
+- 三线表的线宽没有按照模板调整
+- 王脖子使用过程中那些矩阵行距、算法啥的，添加几个示例
+- reference list，学校模板没有按照GB7714-2005，而是Surname + pure initials（参见`latex makebst`命令），要改吗？
+- 英文版本也别搞了
