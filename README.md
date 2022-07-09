@@ -27,3 +27,7 @@ For supplements and corrections, or any version updates, feel free to take issue
 ## Ack
 
 This project is modified from the Overleaf project [Doctorate Thesis LaTeX Template](https://www.overleaf.com/latex/templates/latex-template-for-doctoral-thesis-of-xjtu/bmrqcdhbdrcw) by XJTU alumni Zhang Ming, thanks for his work.
+
+## TODO
+- 意见书什么的也是include的（也行）；
+- 摘要那里没有黑体论文标题等
